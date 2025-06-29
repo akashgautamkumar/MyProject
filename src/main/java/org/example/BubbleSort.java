@@ -37,5 +37,6 @@ public class BubbleSort {
     }
 }
 //Sort the Array using Bubble Sort in Ascending Order
-
-//Time Complexity = O(n)=n^2
+//Idea: if arr[i] > arr[i+1] swap them. To place the element in their
+//        respective position, we have to do the following operation N-1 times.
+//Time Complexity: O(N2)
