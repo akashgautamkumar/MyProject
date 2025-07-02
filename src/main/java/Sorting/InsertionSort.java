@@ -1,8 +1,8 @@
-package org.example;
+package Sorting;
 
 import java.util.Scanner;
 
-import static org.example.BubbleSort.printArray;
+import static Sorting.BubbleSort.printArray;
 
 public class InsertionSort {
     public static void main(String[] args) {
